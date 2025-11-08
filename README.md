@@ -30,6 +30,13 @@ This is my personal portfolio website built using Express.js, EJS, Bootstrap 5, 
 /routes → Route files
 app.js → Main server file
 
+## Deployment
+- Deployed to **Render** as a Web Service.
+- Branch: `main`, Region: Oregon (US West)
+- Build: `npm install`  |  Start: `npm start`
+
+Live URL: https://portfolio-website-vbgv.onrender.com/  
+Repo: https://github.com/Atifhaque123/portfolio-website
 
 
 
